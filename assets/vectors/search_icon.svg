@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="28px" version="1.1" viewBox="0 0 29 28" width="29px" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Search Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g fill="none" fill-rule="evenodd" id="MyAcsys-Login-Screen-Set-01" stroke="none"
+        stroke-width="1">
+        <g fill="#5B697E" id="MyAcsys-iOS-Landing-Screen-v03"
+            transform="translate(-52.000000, -411.000000)">
+            <g id="Action-03" transform="translate(0.000000, 389.000000)">
+                <path
+                    d="M63.514,43.028 C58.268,43.028 54,38.76 54,33.514 C54,28.268 58.268,24 63.514,24 C68.76,24 73.028,28.268 73.028,33.514 C73.028,38.76 68.76,43.028 63.514,43.028 L63.514,43.028 Z M73.085,39.905 C74.311,38.075 75.028,35.877 75.028,33.514 C75.028,27.165 69.863,22 63.514,22 C57.165,22 52,27.165 52,33.514 C52,39.863 57.165,45.028 63.514,45.028 C66.778,45.028 69.722,43.657 71.819,41.468 L79.533,49.182 L80.947,47.768 L73.085,39.905 Z"
+                    id="Search-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

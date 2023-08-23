@@ -1,0 +1,3 @@
+class ApprovalFilter{
+  String trans;
+}

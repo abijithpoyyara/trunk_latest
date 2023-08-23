@@ -1,0 +1,5 @@
+<resources>
+    <string name="default_notification_channel_id">Redawa Notification channel</string>
+    <string name="default_notification_channel_description">Cyber trade application notifications</string>
+    <string name="default_notification_channel_name">Redawa</string>
+</resources>
